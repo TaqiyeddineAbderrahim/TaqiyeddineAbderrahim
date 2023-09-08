@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taqiyeddine Abderrahim</h1>
 <h3 align="center">A passionate developer from Algeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taqiyeddineabderrahim&label=Profile%20views&color=0e75b6&style=flat" alt="taqiyeddineabderrahim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taqiyeddineabderrahim" alt="taqiyeddineabderrahim" /></a> </p>
-
 - 🔭 I’m currently working on **The ALX Africa Program**
 
 - 🌱 I’m currently learning **C**
@@ -14,16 +10,3 @@
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **a.taquieddine@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/taquieddinea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="taquieddinea" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/taqiyeddine-abderrahim-896845127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taqiyeddine-abderrahim-896845127" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22513835" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22513835" height="30" width="40" /></a>
-<a href="https://fb.com/taquieddine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taquieddine" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=taqiyeddineabderrahim&show_icons=true&locale=en&layout=compact" alt="taqiyeddineabderrahim" /></p>
