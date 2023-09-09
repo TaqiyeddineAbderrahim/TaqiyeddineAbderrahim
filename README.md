@@ -6,7 +6,3 @@
 - 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with **C and JavaScript**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **a.taquieddine@gmail.com**
